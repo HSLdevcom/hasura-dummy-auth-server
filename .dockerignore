@@ -1,5 +1,4 @@
 .dockerignore
-.eslintrc
 .git
 .gitignore
 Dockerfile
