@@ -1,6 +1,6 @@
 {
   "name": "dummy-auth-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A dummy authorization server for Hasura",
   "main": "index.js",
   "repository": "https://github.com/HSLdevcom/hasura-dummy-auth-server",
