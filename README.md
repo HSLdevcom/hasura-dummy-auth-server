@@ -6,7 +6,7 @@ hasura-dummy-auth-server returns the same constant response for any authorizatio
 ## Usage
 
 hasura-dummy-auth-server requires three environment variables to be set:
-- `HASURA_ROLE`: The role name for table permissions in Hasura console
+- `HASURA_ROLE`: The role name for table permissions in Hasura console.
 - `PORT`: The port where the GET requests from Hasura are to be received.
 - `WEBHOOK_PATH`: The path in the URL where the GET requests from Hasura are listened to.
 
