@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Since Hasura resolved issue https://github.com/hasura/graphql-engine/issues/595, this repository became irrelevant. Yay!
+
 # hasura-dummy-auth-server
 
 hasura-dummy-auth-server helps with the use case where the Hasura GraphQL API is meant to be usable for anyone without authentication.
